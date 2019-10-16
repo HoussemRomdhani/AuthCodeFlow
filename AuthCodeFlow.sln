@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthCodeFlow.AuthorizationServer", "AuthCodeFlow.AuthorizationServer\AuthCodeFlow.AuthorizationServer.csproj", "{2BE9D118-2CC7-40C8-954C-FE6492ADE8B2}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthCodeFlow.Client", "AuthCodeFlow.Client\AuthCodeFlow.Client.csproj", "{60A8FB08-9EB9-4BEE-9D6C-1E5B409B69CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthCodeFlow.API", "AuthCodeFlow.API\AuthCodeFlow.API.csproj", "{CCFAA39D-4AC6-4D4E-BB33-37EE88554437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthCodeFlow.AuthorizationServer", "AuthCodeFlow.AuthorizationServer\AuthCodeFlow.AuthorizationServer.csproj", "{7C4AB507-F772-4A01-9112-607F8B35585A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2BE9D118-2CC7-40C8-954C-FE6492ADE8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2BE9D118-2CC7-40C8-954C-FE6492ADE8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2BE9D118-2CC7-40C8-954C-FE6492ADE8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2BE9D118-2CC7-40C8-954C-FE6492ADE8B2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{60A8FB08-9EB9-4BEE-9D6C-1E5B409B69CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{60A8FB08-9EB9-4BEE-9D6C-1E5B409B69CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60A8FB08-9EB9-4BEE-9D6C-1E5B409B69CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +23,10 @@ Global
 		{CCFAA39D-4AC6-4D4E-BB33-37EE88554437}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCFAA39D-4AC6-4D4E-BB33-37EE88554437}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCFAA39D-4AC6-4D4E-BB33-37EE88554437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C4AB507-F772-4A01-9112-607F8B35585A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4AB507-F772-4A01-9112-607F8B35585A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4AB507-F772-4A01-9112-607F8B35585A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4AB507-F772-4A01-9112-607F8B35585A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

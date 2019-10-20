@@ -15,3 +15,16 @@ D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\AuthC
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\AuthCodeFlow.API.RazorTargetAssemblyInfo.cache
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\AuthCodeFlow.API.dll
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\AuthCodeFlow.API.pdb
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\AuthCodeFlow.API.MvcApplicationPartsAssemblyInfo.cache
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\AuthCodeFlow.API.csproj.CopyComplete

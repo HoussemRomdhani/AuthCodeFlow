@@ -1,0 +1,17 @@
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\AuthCodeFlow.API.exe
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\AuthCodeFlow.API.deps.json
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\AuthCodeFlow.API.runtimeconfig.json
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\AuthCodeFlow.API.runtimeconfig.dev.json
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\AuthCodeFlow.API.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\bin\Debug\netcoreapp3.1\AuthCodeFlow.API.pdb
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\AuthCodeFlow.API.csprojAssemblyReference.cache
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\staticwebassets\AuthCodeFlow.API.StaticWebAssets.Manifest.cache
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\staticwebassets\AuthCodeFlow.API.StaticWebAssets.xml
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\AuthCodeFlow.API.AssemblyInfoInputs.cache
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\AuthCodeFlow.API.AssemblyInfo.cs
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\AuthCodeFlow.API.RazorTargetAssemblyInfo.cache
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\AuthCodeFlow.API.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.API\obj\Debug\netcoreapp3.1\AuthCodeFlow.API.pdb

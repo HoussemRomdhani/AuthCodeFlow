@@ -54,3 +54,4 @@ D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.IDP\obj\Debug\netcoreapp3.1\AuthC
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.IDP\obj\Debug\netcoreapp3.1\AuthCodeFlow.IDP.csproj.CopyComplete
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.IDP\obj\Debug\netcoreapp3.1\AuthCodeFlow.IDP.dll
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.IDP\obj\Debug\netcoreapp3.1\AuthCodeFlow.IDP.pdb
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.IDP\obj\Debug\netcoreapp3.1\AuthCodeFlow.IDP.csprojAssemblyReference.cache

@@ -16,6 +16,12 @@ namespace AuthCodeFlow.IDP
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMvc(option => option.EnableEndpointRouting = false);
+            services.AddIdentityServer()
+                                  .AddDeveloperSigningCredential()
+                                  .AddInMemoryApiResources(Config.Apis)
+                                  .AddInMemoryClients(Config.Clients)
+                                  .AddTestUsers(Config.Users);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -26,14 +32,11 @@ namespace AuthCodeFlow.IDP
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseRouting();
-
-            app.UseEndpoints(endpoints =>
+            app.UseIdentityServer();
+            app.UseStaticFiles();
+            app.UseMvc(routes =>
             {
-                endpoints.MapGet("/", async context =>
-                {
-                    await context.Response.WriteAsync("Hello World!");
-                });
+                routes.MapRoute("default", "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }

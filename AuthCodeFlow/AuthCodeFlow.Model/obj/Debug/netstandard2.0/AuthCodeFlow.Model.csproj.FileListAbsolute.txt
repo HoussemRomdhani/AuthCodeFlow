@@ -1,0 +1,8 @@
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Model\bin\Debug\netstandard2.0\AuthCodeFlow.Model.deps.json
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Model\bin\Debug\netstandard2.0\AuthCodeFlow.Model.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Model\bin\Debug\netstandard2.0\AuthCodeFlow.Model.pdb
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Model\obj\Debug\netstandard2.0\AuthCodeFlow.Model.csprojAssemblyReference.cache
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Model\obj\Debug\netstandard2.0\AuthCodeFlow.Model.AssemblyInfoInputs.cache
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Model\obj\Debug\netstandard2.0\AuthCodeFlow.Model.AssemblyInfo.cs
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Model\obj\Debug\netstandard2.0\AuthCodeFlow.Model.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Model\obj\Debug\netstandard2.0\AuthCodeFlow.Model.pdb

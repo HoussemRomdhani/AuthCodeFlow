@@ -82,9 +82,9 @@ D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\bin\Debug\netcoreapp3.1\ru
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\obj\Debug\netcoreapp3.1\AuthCodeFlow.Client.csprojAssemblyReference.cache
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\obj\Debug\netcoreapp3.1\staticwebassets\AuthCodeFlow.Client.StaticWebAssets.Manifest.cache
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\obj\Debug\netcoreapp3.1\staticwebassets\AuthCodeFlow.Client.StaticWebAssets.xml
-D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\obj\Debug\netcoreapp3.1\AuthCodeFlow.Client.MvcApplicationPartsAssemblyInfo.cache
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\obj\Debug\netcoreapp3.1\AuthCodeFlow.Client.RazorAssemblyInfo.cache
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\obj\Debug\netcoreapp3.1\AuthCodeFlow.Client.RazorAssemblyInfo.cs
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\obj\Debug\netcoreapp3.1\AuthCodeFlow.Client.AssemblyInfoInputs.cache
@@ -99,3 +99,8 @@ D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\obj\Debug\netcoreapp3.1\Au
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\obj\Debug\netcoreapp3.1\AuthCodeFlow.Client.csproj.CopyComplete
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\obj\Debug\netcoreapp3.1\AuthCodeFlow.Client.dll
 D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\obj\Debug\netcoreapp3.1\AuthCodeFlow.Client.pdb
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\bin\Debug\netcoreapp3.1\libman.json
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\code\AuthCodeFlow\AuthCodeFlow\AuthCodeFlow.Client\obj\Debug\netcoreapp3.1\AuthCodeFlow.Client.MvcApplicationPartsAssemblyInfo.cache
